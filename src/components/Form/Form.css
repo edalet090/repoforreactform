@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(69, 27, 27);
+    color: white;
+}
+input,textarea{
+    background-color: rgb(228, 253, 9);
+    width: 300px;
+    padding: 5px;
+    border: 1px solid bisque;
+    border-radius: 5px;
+}
+select{
+    background-color: rgb(18, 125, 131);
+    width: 310px;
+    padding: 5px;
+    border: 1px solid bisque;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(140, 156, 210);
+    border: none;
+    width: 310px;
+    padding: 10px;
+    border-radius: 5px;
+}
+button:hover{
+    cursor: pointer;
+    color: white;
+}
+.check{
+    width: 5%;
+}
+.main{
+    width: 23%;
+    margin: 11% auto;
+}
